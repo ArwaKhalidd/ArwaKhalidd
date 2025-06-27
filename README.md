@@ -33,7 +33,7 @@ I'm a passionate frontend developer who loves creating beautiful, user-friendly 
 Here are some highlights from my recent work:
 
 
-- 📝 **[Task Manager App with Local Storage](https://github.com/ArwaKhalidd/Task_Manager)** — A modern task manager using pure JS, HTML, and CSS.
+- 📝 **[ Task Manager App ](https://github.com/ArwaKhalidd/Task_Manager)** — A modern task manager using pure JS, HTML, and CSS.
 
 ### 📈 GitHub Stats
 

@@ -3,21 +3,10 @@
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/arwa-khalid-5914792b3" target="_blank" aria-label="LinkedIn">
-                <i class="fab fa-linkedin"></i>
-            </a>
-
- <a href="https://github.com/yourusername" target="_blank" aria-label="GitHub">
-                <i class="fab fa-github"></i>
-            </a>
-
-  <a href="mailto:arwa.rorokh25@gmail.com" target="_blank" aria-label="Email">
-                <i class="fas fa-envelope"></i>
-            </a>
-
-   <a href="https://facebook.com/yourprofile" target="_blank" aria-label="Facebook">
-                <i class="fab fa-facebook"></i>
-            </a>
+ <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/16k2W9Nmi9/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---

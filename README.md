@@ -1,7 +1,7 @@
 ---
 # 👋 Hi, I'm Arwa Khalid
 
-💻 **Frontend Developer | UI/UX Enthusiast | Creative Coder**
+💻 **Frontend Developer | Building interactive & scalable web interfaces | Creative Coder**
 
 ---
 <p align="center">

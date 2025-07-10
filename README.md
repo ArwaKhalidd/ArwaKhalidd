@@ -28,12 +28,6 @@ I'm a passionate frontend developer who loves creating beautiful, user-friendly 
 
 ---
 
-### 🛠 Projects
-
-Here are some highlights from my recent work:
-
-
-- 📝 **[ Task Manager App ](https://github.com/ArwaKhalidd/Task_Manager)** — A modern task manager using pure JS, HTML, and CSS.
 
 ### 📈 GitHub Stats
 

@@ -1,7 +1,6 @@
 ---
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hi,+I'm+Arwa+Khalid)](https://git.io/typing-svg)
 
-💻 **Frontend Developer | Building interactive & scalable web interfaces | Creative Coder**
 
 --- 
 <p align="center">
@@ -10,9 +9,7 @@
   <a href="https://www.facebook.com/share/16k2W9Nmi9/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-### 🧠 About Me
 
-I'm a passionate frontend developer who loves creating beautiful, user-friendly websites and web apps. I specialize in turning ideas into interactive and responsive digital experiences using modern web technologies.
 
 ---
 

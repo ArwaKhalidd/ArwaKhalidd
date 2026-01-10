@@ -26,11 +26,6 @@
 ---
 
 
-### 📈 GitHub Stats
-
-![Arwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArwaKhalidd&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArwaKhalidd&layout=compact&theme=tokyonight)
-
 ---
 
 ### 📫 Connect with Me
